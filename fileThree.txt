@@ -1,1 +1,1 @@
-file three is created for merge 
+file three is created to show merge commit 
