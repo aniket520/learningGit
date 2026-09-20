@@ -1,1 +1,1 @@
-tag demo 2
+merge  demo commit 1
