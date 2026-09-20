@@ -1,1 +1,1 @@
-git restore demo 2 unchanged 
+Git reset demo 2
