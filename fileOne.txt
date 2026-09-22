@@ -1,1 +1,1 @@
-Rebase conflicts because of main conflicts
+Rebase conflicts demo commit 1
