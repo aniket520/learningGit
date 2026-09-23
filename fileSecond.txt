@@ -1,1 +1,1 @@
-Git reset demo 2
+Git change file 2
